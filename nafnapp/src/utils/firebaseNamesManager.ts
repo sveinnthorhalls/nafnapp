@@ -1,4 +1,4 @@
-import { collection, doc, getDocs, setDoc, updateDoc, query, where, serverTimestamp } from 'firebase/firestore';
+import { collection, doc, getDocs, setDoc, updateDoc, query, where, serverTimestamp, getDoc } from 'firebase/firestore';
 import { auth, db } from '../config/firebase';
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword, User } from 'firebase/auth';
 import { randomUUID } from 'expo-crypto';
@@ -232,14 +232,50 @@ export class FirebaseNamesManager {
     coupleId: CoupleId
   ): Promise<void> {
     try {
-      const nameRef = doc(db, 'nameLikes', nameId);
+      // First, get the complete master name data to ensure we have full information
+      const masterNameRef = doc(db, 'masterNames', nameId);
+      const masterNameDoc = await getDoc(masterNameRef);
+      
+      if (!masterNameDoc.exists()) {
+        throw new Error(`Name with ID ${nameId} not found in master list`);
+      }
+      
+      const masterNameData = masterNameDoc.data();
+      const nameData = {
+        id: nameId,
+        name: masterNameData.name,
+        gender: masterNameData.gender,
+      };
       
       // Create the update object based on which partner is voting
-      const updateData = userRole === 'partner1'
-        ? { 'liked.partner1': liked }
-        : { 'liked.partner2': liked };
-        
-      await updateDoc(nameRef, updateData);
+      const likedField = userRole === 'partner1' ? 'partner1' : 'partner2';
+      
+      // Check if a document for this name already exists for this couple
+      const nameRef = doc(db, 'nameLikes', nameId);
+      const nameDoc = await getDoc(nameRef);
+      
+      let updateData: any = {
+        ...nameData,  // Include complete name data
+        coupleId,
+        updatedAt: serverTimestamp()
+      };
+      
+      // Add liked status based on existing data
+      if (nameDoc.exists()) {
+        const existingData = nameDoc.data();
+        const likedData = existingData.liked || { partner1: null, partner2: null };
+        likedData[likedField] = liked;
+        updateData.liked = likedData;
+      } else {
+        // Initialize new liked structure
+        const likedData = { partner1: null, partner2: null };
+        likedData[likedField] = liked;
+        updateData.liked = likedData;
+        updateData.createdAt = serverTimestamp();
+      }
+      
+      // Use setDoc with merge option to update or create
+      await setDoc(nameRef, updateData, { merge: true });
       console.log(`Updated name ${nameId} preference for ${userRole} to ${liked}`);
     } catch (error: any) {
       console.error('Error updating name preference:', error);
@@ -328,7 +364,7 @@ export class FirebaseNamesManager {
     coupleId: CoupleId | null;
     userRole: UserRole | null;
   }> {
-    const user = auth.currentUser;
+    const user: User | null = auth.currentUser;
     
     if (!user) {
       console.log("No authenticated user found");

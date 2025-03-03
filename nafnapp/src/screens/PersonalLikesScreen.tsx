@@ -11,7 +11,8 @@ import {
 import { RouteProp } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../../App';
-import { OptimizedFirebaseNamesManager, NameWithPreference } from '../utils/optimizedFirebaseNamesManager';
+import { FirebaseNamesManager, FirebaseNameData, UserRole } from '../utils/firebaseNamesManager';
+import { auth } from '../config/firebase';
 
 type PersonalLikesScreenProps = {
   navigation: NativeStackNavigationProp<RootStackParamList, 'PersonalLikes'>;
@@ -19,7 +20,7 @@ type PersonalLikesScreenProps = {
 };
 
 const PersonalLikesScreen: React.FC<PersonalLikesScreenProps> = ({ navigation }) => {
-  const [likedNames, setLikedNames] = useState<NameWithPreference[]>([]);
+  const [likedNames, setLikedNames] = useState<FirebaseNameData[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -31,7 +32,7 @@ const PersonalLikesScreen: React.FC<PersonalLikesScreenProps> = ({ navigation })
     
     try {
       // Get current user info
-      const userInfo = await OptimizedFirebaseNamesManager.getCurrentUserInfo();
+      const userInfo = await FirebaseNamesManager.getCurrentUserInfo();
       
       if (!userInfo.coupleId || !userInfo.userRole) {
         Alert.alert('Error', 'Could not retrieve your user information.');
@@ -40,11 +41,10 @@ const PersonalLikesScreen: React.FC<PersonalLikesScreenProps> = ({ navigation })
       }
       
       // Load personal likes for the current user
-      const personalLikes = await OptimizedFirebaseNamesManager.getUserPersonalLikes(
-        userInfo.coupleId,
-        userInfo.userRole
-      );
+      const allNames = await FirebaseNamesManager.getAllNames(userInfo.coupleId);
+      const personalLikes = allNames.filter(name => name.liked?.[userInfo.userRole as keyof typeof name.liked] === true);
       
+      console.log(`Found ${personalLikes.length} liked names for ${userInfo.userRole}`);
       setLikedNames(personalLikes);
     } catch (error) {
       console.error('Error loading personal likes:', error);
@@ -54,12 +54,9 @@ const PersonalLikesScreen: React.FC<PersonalLikesScreenProps> = ({ navigation })
     }
   };
 
-  const renderItem = ({ item }: { item: NameWithPreference }) => (
+  const renderItem = ({ item }: { item: FirebaseNameData }) => (
     <View style={styles.nameItem}>
       <Text style={styles.nameText}>{item.name}</Text>
-      {item.meaning && (
-        <Text style={styles.meaningText}>{item.meaning}</Text>
-      )}
       {item.gender && (
         <Text style={[
           styles.genderTag, 
@@ -71,8 +68,7 @@ const PersonalLikesScreen: React.FC<PersonalLikesScreenProps> = ({ navigation })
       )}
       
       {/* Show if partner also likes this name */}
-      {(item.userRole === 'partner1' && item.partner2Like === true || 
-        item.userRole === 'partner2' && item.partner1Like === true) && (
+      {(item.liked?.partner1 === true && item.liked?.partner2 === true) && (
         <View style={styles.matchBadge}>
           <Text style={styles.matchText}>Match! Your partner also likes this name</Text>
         </View>
@@ -93,7 +89,6 @@ const PersonalLikesScreen: React.FC<PersonalLikesScreenProps> = ({ navigation })
     <View style={styles.container}>
       <Text style={styles.title}>Names You Like</Text>
       <Text style={styles.subtitle}>All the names you've swiped right on</Text>
-
       {likedNames.length > 0 ? (
         <FlatList
           data={likedNames}
@@ -109,7 +104,6 @@ const PersonalLikesScreen: React.FC<PersonalLikesScreenProps> = ({ navigation })
           </Text>
         </View>
       )}
-
       <View style={styles.footer}>
         <TouchableOpacity
           style={styles.button}
@@ -174,12 +168,6 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: 'bold',
     marginBottom: 5,
-  },
-  meaningText: {
-    fontSize: 16,
-    color: '#666',
-    fontStyle: 'italic',
-    marginBottom: 10,
   },
   genderTag: {
     alignSelf: 'flex-start',

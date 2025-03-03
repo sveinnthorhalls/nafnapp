@@ -1,10 +1,12 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useCallback } from 'react';
 import { StyleSheet, View, Text, TouchableOpacity, ActivityIndicator, Dimensions, Alert } from 'react-native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../../App';
 import NameCard from '../components/NameCard';
 import { FirebaseNamesManager, UserRole, NameData, FirebaseNameData } from '../utils/firebaseNamesManager';
 import { auth } from '../config/firebase';
+import { useFocusEffect } from '@react-navigation/native';
+import { FirebaseAuthTypes } from 'firebase/auth';
 
 // Define the type for the navigation prop
 interface HomeScreenProps {
@@ -24,17 +26,19 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
     userRole: null
   });
   
-  // Load initial data
-  useEffect(() => {
-    checkAuthAndLoadData();
-  }, []);
-
+  // Load data when the screen comes into focus
+  useFocusEffect(
+    useCallback(() => {
+      checkAuthAndLoadData();
+    }, [])
+  );
+  
   // Check if user is authenticated, if not redirect to login
   const checkAuthAndLoadData = async () => {
     setLoading(true);
     
     // Check if user is logged in
-    const currentUser = auth.currentUser;
+    const currentUser: FirebaseAuthTypes.User | null = auth.currentUser;
     if (!currentUser) {
       // Not logged in, redirect to login screen
       navigation.replace('Login');
@@ -55,6 +59,7 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
           userInfo.userRole
         );
         
+        console.log(`Found ${namesToSwipe.length} names to swipe for ${userInfo.userRole}`);
         setNamesToSwipe(namesToSwipe);
       }
     } catch (error) {
@@ -80,7 +85,12 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
       );
       
       // Remove this name from the local list
-      setNamesToSwipe(namesToSwipe.slice(1));
+      setNamesToSwipe(prevNames => prevNames.slice(1));
+      
+      // If we're running low on names to swipe, refresh the list
+      if (namesToSwipe.length <= 2) {
+        refreshNamesList();
+      }
     } catch (error) {
       console.error('Error updating name preference:', error);
       Alert.alert('Error', 'Failed to save your preference. Please try again.');
@@ -103,11 +113,16 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
       );
       
       // Remove this name from the local list
-      setNamesToSwipe(namesToSwipe.slice(1));
+      setNamesToSwipe(prevNames => prevNames.slice(1));
+      
+      // If we're running low on names to swipe, refresh the list
+      if (namesToSwipe.length <= 2) {
+        refreshNamesList();
+      }
 
       // Check if this created a new match
-      if (userInfo.userRole === 'partner1' && currentName.liked.partner2 === true ||
-          userInfo.userRole === 'partner2' && currentName.liked.partner1 === true) {
+      if (userInfo.userRole === 'partner1' && currentName.liked?.partner2 === true ||
+          userInfo.userRole === 'partner2' && currentName.liked?.partner1 === true) {
         // This name is a match! Both partners liked it
         Alert.alert(
           '🎉 It\'s a Match! 🎉',
@@ -121,6 +136,25 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
     } catch (error) {
       console.error('Error updating name preference:', error);
       Alert.alert('Error', 'Failed to save your preference. Please try again.');
+    }
+  };
+
+  // Refresh the names list from Firebase
+  const refreshNamesList = async () => {
+    if (!userInfo.coupleId || !userInfo.userRole) return;
+    
+    try {
+      // Get fresh data from Firebase
+      const allNames = await FirebaseNamesManager.getAllNames(userInfo.coupleId);
+      const refreshedNames = FirebaseNamesManager.getNamesToSwipe(allNames, userInfo.userRole);
+      
+      // Only update if we found new names
+      if (refreshedNames.length > 0) {
+        console.log(`Refreshed names list, found ${refreshedNames.length} names to swipe`);
+        setNamesToSwipe(refreshedNames);
+      }
+    } catch (error) {
+      console.error('Error refreshing names list:', error);
     }
   };
 
@@ -192,6 +226,12 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
             <Text style={styles.emptySubtext}>
               Check back later - your partner might still be swiping!
             </Text>
+            <TouchableOpacity 
+              style={styles.refreshButton}
+              onPress={refreshNamesList}
+            >
+              <Text style={styles.refreshButtonText}>🔄 Refresh</Text>
+            </TouchableOpacity>
           </View>
         )}
       </View>
@@ -286,6 +326,18 @@ const styles = StyleSheet.create({
     color: '#888',
     marginTop: 10,
     textAlign: 'center',
+    marginBottom: 20,
+  },
+  refreshButton: {
+    backgroundColor: '#3498db',
+    paddingVertical: 10,
+    paddingHorizontal: 20,
+    borderRadius: 25,
+  },
+  refreshButtonText: {
+    color: 'white',
+    fontSize: 16,
+    fontWeight: '600',
   },
   footer: {
     width: '100%',
