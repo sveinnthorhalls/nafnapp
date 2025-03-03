@@ -8,14 +8,14 @@ import Reanimated, {
   withSpring,
   runOnJS 
 } from 'react-native-reanimated';
-
 import { NameData } from '../data/icelandicNames';
+import { FirebaseNameData } from '../utils/firebaseNamesManager';
 
 const { width } = Dimensions.get('window');
 const SWIPE_THRESHOLD = width * 0.3;
 
 type NameCardProps = {
-  name: NameData;
+  name: NameData | FirebaseNameData;
   onSwipeLeft: () => void;
   onSwipeRight: () => void;
 };
@@ -60,7 +60,13 @@ const NameCard: React.FC<NameCardProps> = ({ name, onSwipeLeft, onSwipeRight }) 
     };
   });
 
-  console.log('Rendering NameCard:', name);
+  // Display meaning if available
+  const renderMeaning = () => {
+    if (name.meaning) {
+      return <Text style={styles.meaningText}>{name.meaning}</Text>;
+    }
+    return null;
+  };
 
   if (Platform.OS === 'web') {
     return (
@@ -95,6 +101,7 @@ const NameCard: React.FC<NameCardProps> = ({ name, onSwipeLeft, onSwipeRight }) 
         style={styles.card}
       >
         <Text style={styles.nameText}>{name.name}</Text>
+        {renderMeaning()}
       </div>
     );
   }
@@ -103,6 +110,11 @@ const NameCard: React.FC<NameCardProps> = ({ name, onSwipeLeft, onSwipeRight }) 
     <PanGestureHandler onGestureEvent={panGestureEvent}>
       <Reanimated.View style={[styles.card, cardStyle]}>
         <Text style={styles.nameText}>{name.name}</Text>
+        {renderMeaning()}
+        <View style={styles.actionHints}>
+          <Text style={styles.hintText}>← Swipe left to skip</Text>
+          <Text style={styles.hintText}>Swipe right to like →</Text>
+        </View>
       </Reanimated.View>
     </PanGestureHandler>
   );
@@ -124,11 +136,33 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.25,
     shadowRadius: 3.84,
     elevation: 5,
+    padding: 20,
   },
   nameText: {
     fontSize: 42,
     fontWeight: 'bold',
     color: '#333',
+    textAlign: 'center',
+  },
+  meaningText: {
+    marginTop: 20,
+    fontSize: 18,
+    fontStyle: 'italic',
+    color: '#666',
+    textAlign: 'center',
+  },
+  actionHints: {
+    position: 'absolute',
+    bottom: 20,
+    left: 0,
+    right: 0,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    paddingHorizontal: 20,
+  },
+  hintText: {
+    fontSize: 14,
+    color: '#999',
   },
 });
 

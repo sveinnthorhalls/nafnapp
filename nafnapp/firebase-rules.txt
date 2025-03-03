@@ -1,0 +1,57 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Default deny all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // User document rules
+    match /users/{userId} {
+      // Users can read and write only their own user data
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // Couple document rules
+    match /couples/{coupleId} {
+      // Allow access if user is either partner1 or partner2 in this couple
+      allow read, update: if request.auth != null && (
+        resource.data.partner1 == request.auth.uid || 
+        resource.data.partner2 == request.auth.uid
+      );
+
+      // Allow creation with validation
+      allow create: if request.auth != null && 
+                    request.resource.data.partner1 == request.auth.uid;
+    }
+
+    // Master Names collection rules
+    match /masterNames/{nameId} {
+      // Anyone can read master names, but only admins can write (for now)
+      allow read: if request.auth != null;
+      allow write: if false; // Only via admin SDK or server function
+    }
+
+    // Name Likes collection rules
+    match /nameLikes/{likeId} {
+      // Helper function to check if user is part of a couple
+      function isCoupleMember(coupleId) {
+        let coupleDoc = get(/databases/$(database)/documents/couples/$(coupleId));
+        return coupleDoc.exists && (
+          coupleDoc.data.partner1 == request.auth.uid || 
+          coupleDoc.data.partner2 == request.auth.uid
+        );
+      }
+
+      // Allow read access to like documents for couple members
+      allow read: if request.auth != null && isCoupleMember(resource.data.coupleId);
+
+      // For updating an existing like
+      allow update: if request.auth != null && isCoupleMember(resource.data.coupleId);
+
+      // For creating a new like - verify coupleId belongs to user
+      allow create: if request.auth != null && isCoupleMember(request.resource.data.coupleId);
+    }
+  }
+}
