@@ -1,0 +1,10250 @@
+{
+  "A": [
+    {
+      "Name": "Aagot",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aaliyah",
+      "Gender": "female"
+    },
+    {
+      "Name": "Abel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Abela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Abigael",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ada",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aðalbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aðalbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aðalborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aðaldís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aðaley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aðalfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aðalheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aðalrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aðalsteina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aðalsteinunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aðalveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Adda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Addú",
+      "Gender": "female"
+    },
+    {
+      "Name": "Addý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Adela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Adele",
+      "Gender": "female"
+    },
+    {
+      "Name": "Adelía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Adolfína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Adriana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Adríana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Adríanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Agata",
+      "Gender": "female"
+    },
+    {
+      "Name": "Agatha",
+      "Gender": "female"
+    },
+    {
+      "Name": "Agða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Agl",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Agla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Agnea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Agnes",
+      "Gender": "female"
+    },
+    {
+      "Name": "Agneta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Agney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Agok",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ahelia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aisha",
+      "Gender": "female"
+    },
+    {
+      "Name": "Akarn",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Akira",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alaía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alanta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alba",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alberta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Albína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Albjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aldey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aldís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aldný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aleta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aletta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alex",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alexa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alexandra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alexandría",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alexía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alexis",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alexstrasa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alfa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alfífa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alíana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alica",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alice",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alida",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alída",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alífa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alisa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alísa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alíta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Allý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alpa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alparós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alpha",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Alrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Althea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Alvilda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amadea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amal",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amalía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amanda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amarie",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amelía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amilía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amira",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amíra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amy",
+      "Gender": "female"
+    },
+    {
+      "Name": "Amý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Analía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Anastasía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Andra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Andrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Andrea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Andríana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Anetta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Angela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Angelía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Angelíka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Angelína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Anika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aníka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Anína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Anita",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aníta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Anja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ann",
+      "Gender": "female"
+    },
+    {
+      "Name": "Anna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Annabella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Annalísa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Annamaría",
+      "Gender": "female"
+    },
+    {
+      "Name": "Annarósa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Anne",
+      "Gender": "female"
+    },
+    {
+      "Name": "Annelí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Annetta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Anney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Annía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Annika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Anný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Antonía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Apel",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Apríl",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arabella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Araminta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ardís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aría",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aríaðna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aríana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arianna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aríanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aríel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aríela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aríella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arinbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aris",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arisa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arkíta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arló",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Armenía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnfinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arngerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arngunnur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnkatla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnlín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnljót",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arntinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Arnþrúður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aró",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Artemis",
+      "Gender": "female"
+    },
+    {
+      "Name": "Asía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Asírí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Askalín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Askja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Assa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aster",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Astrid",
+      "Gender": "female"
+    },
+    {
+      "Name": "Atalía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Atena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Athena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Atla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Atlanta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Auðbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Auðbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Auðdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Auðlín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Auðna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Auðný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Auðrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Auður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aurora",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ava",
+      "Gender": "female"
+    },
+    {
+      "Name": "Avelin",
+      "Gender": "female"
+    },
+    {
+      "Name": "Avelín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aveline",
+      "Gender": "female"
+    },
+    {
+      "Name": "Avía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Axelía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Axelma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ayah",
+      "Gender": "female"
+    },
+    {
+      "Name": "Aþena",
+      "Gender": "female"
+    }
+  ],
+  "Á": [
+    {
+      "Name": "Ágústa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ágústína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Álfa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Álfdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Álfey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Álfgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Álfheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Álfhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Álfrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Álfrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Álfsól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ár",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Ára",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árelía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ármey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árnheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árnína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Áróra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ársæl",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ársól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árvök",
+      "Gender": "female"
+    },
+    {
+      "Name": "Árþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ása",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Áshildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Áskatla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Áslaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ást",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásthildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástmarý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ástþrúður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásvör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ásynja",
+      "Gender": "female"
+    }
+  ],
+  "B": [
+    {
+      "Name": "Bábó",
+      "Gender": "female"
+    },
+    {
+      "Name": "Baldey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Baldína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Baldrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Baldvina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bára",
+      "Gender": "female"
+    },
+    {
+      "Name": "Barbara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Barbára",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bassí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Beata",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bebba",
+      "Gender": "female"
+    },
+    {
+      "Name": "Begga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Belinda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Benedikta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bengta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Benía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Benidikta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Beníta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Benna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Benney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Benný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Benta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bentey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bentína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bera",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Berghildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Berglaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Berglín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Berglind",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergljót",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergmannía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergrán",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergrín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergsveina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bergþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Berit",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bernadette",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bernódía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Berta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bertha",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bertmarí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bessa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bessí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bestla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Beta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Betanía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Betsý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bettý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bíbí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bil",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Binna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Birgit",
+      "Gender": "female"
+    },
+    {
+      "Name": "Birgitta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Birna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Birta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Birtna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjargdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjargey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjargheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarghildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarglind",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarkey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarklind",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarnfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarngerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarnheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarnhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarnlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarnrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarnveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarnþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjarnþrúður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjart",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Bjartdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjartey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bjartmey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Björg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Björgey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Björgheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Björghildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Björk",
+      "Gender": "female"
+    },
+    {
+      "Name": "Björney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Björnfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Björt",
+      "Gender": "female"
+    },
+    {
+      "Name": "Blædís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Blær",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bláey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bláklukka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Blíða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Blín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Blom",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Blómey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bobba",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bóel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Boga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bogdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bogey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bogga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Boghildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Borg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Borgdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Borghild",
+      "Gender": "female"
+    },
+    {
+      "Name": "Borghildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Borgný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Borgrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Borgþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bót",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bóthildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Botnía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Braga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Braghildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brák",
+      "Gender": "female"
+    },
+    {
+      "Name": "Branddís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brandís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bría",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bríana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bríanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Briet",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bríet",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brigitta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brim",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brimdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brimey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brimhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brimrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brit",
+      "Gender": "female"
+    },
+    {
+      "Name": "Britt",
+      "Gender": "female"
+    },
+    {
+      "Name": "Britta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Broteva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bryn",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Bryndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brynfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bryngerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brynheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brynhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brynja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brynný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Brynylfa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Buffý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Burkney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Bylgja",
+      "Gender": "female"
+    }
+  ],
+  "C": [
+    {
+      "Name": "Camilla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Caritas",
+      "Gender": "female"
+    },
+    {
+      "Name": "Carla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Carmen",
+      "Gender": "female"
+    },
+    {
+      "Name": "Casandra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Cathinca",
+      "Gender": "female"
+    },
+    {
+      "Name": "Cecilia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Cecilía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Charlotta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Charlotte",
+      "Gender": "female"
+    },
+    {
+      "Name": "Chloé",
+      "Gender": "female"
+    },
+    {
+      "Name": "Chrissie",
+      "Gender": "female"
+    },
+    {
+      "Name": "Christa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Christel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Christina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Christine",
+      "Gender": "female"
+    },
+    {
+      "Name": "Clara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Cleopatra",
+      "Gender": "female"
+    }
+  ],
+  "D": [
+    {
+      "Name": "Dáð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Daðey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Daðína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dæja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dagbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dagbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dagfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Daggrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dagheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dagmar",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dagmey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dagný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dagrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dal",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Daldís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Daley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dalía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dalla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dallilja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dalrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dalrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Daney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Danfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Danheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Danhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Danía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Daníela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Daníella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Daría",
+      "Gender": "female"
+    },
+    {
+      "Name": "Debora",
+      "Gender": "female"
+    },
+    {
+      "Name": "Debóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Deda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Degen",
+      "Gender": "female"
+    },
+    {
+      "Name": "Delía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dendý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Denný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Día",
+      "Gender": "female"
+    },
+    {
+      "Name": "Díana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Díanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Didda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dídí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dilja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Diljá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dillý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Díma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dimma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dimmblá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dimmey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dísa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dísella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dissý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dóa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dögg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dögun",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dolma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dómhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Donna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dórey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Doris",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dóris",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dórótea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dóróthe",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dorothea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dórothea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dóróthea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dóróþea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Drauma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Draumey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Drífa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dröfn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Droplaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Drótt",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dúa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dúfa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dúna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dúnna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dúrra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dyljá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dynja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dýrborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dýrfinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dýrlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dýrleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dýrley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Dýrunn",
+      "Gender": "female"
+    }
+  ],
+  "E": [
+    {
+      "Name": "Ebba",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ebonney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Edda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Edel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eden",
+      "Gender": "female"
+    },
+    {
+      "Name": "Edil",
+      "Gender": "female"
+    },
+    {
+      "Name": "Edit",
+      "Gender": "female"
+    },
+    {
+      "Name": "Edith",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eðna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Efemía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Egedía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eggrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Egilína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Egla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eiðný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eiðunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eik",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eileif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eileiþía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eilíf",
+      "Gender": "female"
+    },
+    {
+      "Name": "Einara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Einbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eindís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Einey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Einfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Einhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Einína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Einrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eir",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eirdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eirfinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eiríka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eiríksína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eirný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eirún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eiva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eivör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elba",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eldbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elddís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eldey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eldlilja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eldmey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eldrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eldrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eldþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eleana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eleina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elektra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elenborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elenora",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elenóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eleonora",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elfa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elfríð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elfur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elíana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elíanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elíná",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elínbet",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elínbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elínbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elinborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elínborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elíndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elíngunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elíngunnur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elínheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elínora",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elinóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elínóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elínrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elírós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elísa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elísabet",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elisabeth",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elísabeth",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elise",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elíza",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elizabet",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elízabet",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elizabeth",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ellen",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ellín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ellisif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elly",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ellý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eló",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Elsa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elsabet",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elsí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elsie",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elsý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elvi",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elvira",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elvíra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Elvý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emanúela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Embla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emelí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emelía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emelíana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emelína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emely",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emelý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emeralda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emi",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emilí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emilía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emilíana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emilíanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emilý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emmý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Emý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Enea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eneka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Engilbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Engilráð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Engilrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Engla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Enika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eníta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Enja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Enóla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Enya",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eres",
+      "Gender": "female"
+    },
+    {
+      "Name": "Erica",
+      "Gender": "female"
+    },
+    {
+      "Name": "Erika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Erin",
+      "Gender": "female"
+    },
+    {
+      "Name": "Erla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Erlen",
+      "Gender": "female"
+    },
+    {
+      "Name": "Erlín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Erlinda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ermenga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Erna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Erykah",
+      "Gender": "female"
+    },
+    {
+      "Name": "Esí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Esja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eskja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Esmeralda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Estel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ester",
+      "Gender": "female"
+    },
+    {
+      "Name": "Esther",
+      "Gender": "female"
+    },
+    {
+      "Name": "Estiva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Estíva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ethel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Etna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eufemía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Evelía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Evelyn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Evey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Evfemía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Evgenía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Evin",
+      "Gender": "female"
+    },
+    {
+      "Name": "Evíta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Evlalía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eybjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eybjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eydís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eygerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eygló",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyjalín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eylín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyrarrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyvör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Eyþrúður",
+      "Gender": "female"
+    }
+  ],
+  "F": [
+    {
+      "Name": "Fævý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fanndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fanney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fannlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fanny",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fanný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Febrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fema",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fídes",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fífa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Filipía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Filippa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Filippía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Finna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Finnbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Finnbjörk",
+      "Gender": "female"
+    },
+    {
+      "Name": "Finnboga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Finnborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Finndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Finney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Finnfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Finnlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Finnrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fíóna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fjalldís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fjalley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fjara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fjóla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Flóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fold",
+      "Gender": "female"
+    },
+    {
+      "Name": "Föld",
+      "Gender": "female"
+    },
+    {
+      "Name": "Folda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fönn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Frán",
+      "Gender": "female"
+    },
+    {
+      "Name": "Franka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fransiska",
+      "Gender": "female"
+    },
+    {
+      "Name": "Franzisca",
+      "Gender": "female"
+    },
+    {
+      "Name": "Franziska",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fregn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Freya",
+      "Gender": "female"
+    },
+    {
+      "Name": "Freydís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Freygerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Freyja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Freylaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Freyleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Frida",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fríða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðdóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðfinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðjóna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðlín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðmey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðrika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðrikka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðsemd",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Friðþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Frigg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fróðný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Frost",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Frostrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Fura",
+      "Gender": "female"
+    }
+  ],
+  "G": [
+    {
+      "Name": "Gabriela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gabríela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gabríella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gabríerla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gæfa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gæflaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gaja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ganna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gára",
+      "Gender": "female"
+    },
+    {
+      "Name": "Garbó",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gauja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gauthildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gefjun",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gefn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Geira",
+      "Gender": "female"
+    },
+    {
+      "Name": "Geirbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Geirdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Geirfinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Geirfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Geirhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Geirlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Geirlöð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Geirný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Geirríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Geirrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Geirþrúður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Georgía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gerða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gestheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gestný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gestrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gígí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gígja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gilla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gillý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gilslaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gísela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gísella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gísla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gísley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gíslína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gíslný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gíslrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gíslunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gissunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gíta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gjaflaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gjöll",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gjóska",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gleymmérei",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gló",
+      "Gender": "female"
+    },
+    {
+      "Name": "Glóa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Glóbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Glóð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Glódís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Glóey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gloría",
+      "Gender": "female"
+    },
+    {
+      "Name": "Glytta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gná",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gnádís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Góa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gógó",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gola",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gratíana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Grein",
+      "Gender": "female"
+    },
+    {
+      "Name": "Grélöð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gret",
+      "Gender": "female"
+    },
+    {
+      "Name": "Grét",
+      "Gender": "female"
+    },
+    {
+      "Name": "Greta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gréta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Grethe",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gríma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Grímey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Grímheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Grímhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gró",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gróa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Grótta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gúa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðfinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðjóna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðlín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðmey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðmunda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðmundína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðsteina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guðveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Guja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gulla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gullbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gullveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gullý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gumma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunndóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnfinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnharða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnjóna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnlöð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnvör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gunnþórunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gúrí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gurrý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gyða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gyðja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gyðríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Gytta",
+      "Gender": "female"
+    }
+  ],
+  "H": [
+    {
+      "Name": "Hadda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Haddý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hædý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hafalda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hafbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hafborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hafdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hafey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Haffý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hafliða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Haflína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hafný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hafrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hafrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hafsól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hafsteina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hafþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hákonía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Halla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hallbera",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hallbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hallborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Halldís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Halldóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Halley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hallfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hallgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hallgunnur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hallkatla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hallný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hallrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hallveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hallvör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hannah",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hanney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hanný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hansa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hansína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Harley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Harpa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hauður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heba",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hebba",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hedda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hedí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heida",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiðbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiðbjörk",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiðbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiðbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiðdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heidi",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiðlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiðlóa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiðný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiðrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiðrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heiðveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hekla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Helen",
+      "Gender": "female"
+    },
+    {
+      "Name": "Helena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Helga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Helgey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Helma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hendrikka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Henný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Henrietta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Henríetta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Henrika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hera",
+      "Gender": "female"
+    },
+    {
+      "Name": "Herbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Herbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Herborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Herdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Herfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hergerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Herlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hermína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Heró",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hersilía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Herta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hertha",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hervör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Herþrúður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hild",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hilda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hildegard",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hildibjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hildigerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hildigunnur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hildiríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hildís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hildisif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hilja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hilma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Himinbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hind",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hinrika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hinrikka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjálmdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjálmey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjálmfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjálmgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjálmrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjálmrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjálmveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjalta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjaltey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjördís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjörfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjörleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjörný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hjörtfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hlaðgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hlédís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hleiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hlíf",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hlín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hlökk",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hlýja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hödd",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hofdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hóffý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hófí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Högna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hólmbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hólmdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hólmfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hörn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafnborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafnea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafnfífa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafngerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafnheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafnhetta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafnhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafnkatla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafnlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafnrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafnrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafnsunna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafntinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrafnynja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hraundís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrefna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hreindís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hróðný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hröfn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrólfdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrönn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hrund",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hugbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hugbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hugborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hugdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hugljúf",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hugrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hugrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Huld",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hulda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Huldís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Huldrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Húna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Húnbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Húndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Húngerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hvönn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Hyrrokkin",
+      "Gender": "female"
+    }
+  ],
+  "I": [
+    {
+      "Name": "Ida",
+      "Gender": "female"
+    },
+    {
+      "Name": "Iða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Idda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Iðunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ilmur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ilse",
+      "Gender": "female"
+    },
+    {
+      "Name": "Imba",
+      "Gender": "female"
+    },
+    {
+      "Name": "Imma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Immý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Inda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Indí",
+      "Gender": "female"
+    },
+    {
+      "Name": "India",
+      "Gender": "female"
+    },
+    {
+      "Name": "Indía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Indiana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Indíana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Indika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Indíra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Indra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Inga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingaló",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingeborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Inger",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Inghildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingibjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingibjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingiborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingifinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingifríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingigerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingilaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingileif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingilín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingimaría",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingimunda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingiríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingirós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingirún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingisól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingiveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingrid",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ingveldur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Inna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Irena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Irene",
+      "Gender": "female"
+    },
+    {
+      "Name": "Irja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Irma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Irmelín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Irmý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Irpa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Isabel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Isabella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Isadora",
+      "Gender": "female"
+    },
+    {
+      "Name": "Isidora",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ivý",
+      "Gender": "female"
+    }
+  ],
+  "Í": [
+    {
+      "Name": "Ída",
+      "Gender": "female"
+    },
+    {
+      "Name": "Íena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ílena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Íma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ínes",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ír",
+      "Gender": "female"
+    },
+    {
+      "Name": "Íren",
+      "Gender": "female"
+    },
+    {
+      "Name": "Írena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Íris",
+      "Gender": "female"
+    },
+    {
+      "Name": "Írunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísabel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísabella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísadóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísafold",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísalind",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísdögg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Íselín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísfold",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Íshildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísidóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísis",
+      "Gender": "female"
+    },
+    {
+      "Name": "Íslaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Íslilja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísmey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísobel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísold",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Íssól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ísvöld",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ítalía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Íunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Íva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Íviðja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ívör",
+      "Gender": "female"
+    }
+  ],
+  "J": [
+    {
+      "Name": "Jakey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jakobína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jane",
+      "Gender": "female"
+    },
+    {
+      "Name": "Janetta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Janey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jannika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jarla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Járnbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Járngerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jarún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jarþrúður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jasmin",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jasmín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jasmine",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jeanne",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jenetta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jenna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jenny",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jenný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jensína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jessý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jódís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jófríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóhanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóhanndína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jökla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jökulrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jólín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jónanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jónasína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jónbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jónbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jónborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóndóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jónfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóngerð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jónheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jónhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóní",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jónía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jónída",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jónína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóninna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jonna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jonný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jónný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jörgína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jóríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jórlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jórunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jósebína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jósefín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Josefina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jósefína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Jovina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júdea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júdit",
+      "Gender": "female"
+    },
+    {
+      "Name": "Judith",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júlí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Julia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júlía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júlíana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júlíanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júlíetta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júlíhuld",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júlína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júlírós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júní",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júnía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Júníana",
+      "Gender": "female"
+    }
+  ],
+  "K": [
+    {
+      "Name": "Kaðlín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kæja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kaia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kaía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kaja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kala",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kalla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kalmara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kamí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kamilla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kamma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kaos",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Kapitola",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kapítóla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kára",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karen",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kárí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karin",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karitas",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karítas",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karlína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karlinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karlotta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karlynja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karmen",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karó",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karol",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karólín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karolína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karólína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Karún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kassandra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kat",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kata",
+      "Gender": "female"
+    },
+    {
+      "Name": "Katarína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kateri",
+      "Gender": "female"
+    },
+    {
+      "Name": "Katerína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Katharina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kathinka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Katinka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Katla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Katra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Katrín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Katrína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Katý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kaya",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kellý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kendra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kenya",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ketilbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ketilfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ketilríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kiddý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kikka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kilja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kira",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kíra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kirsten",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kirstín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kittý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kjalvör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kládía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Klara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Klaría",
+      "Gender": "female"
+    },
+    {
+      "Name": "Klementína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kleópatra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Klöpp",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kóbra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kókó",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kolbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kolbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kolbrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Koldís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kolfinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kolfreyja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kolgríma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kolka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kolþerna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kona",
+      "Gender": "female"
+    },
+    {
+      "Name": "Konkordía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Konný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Konstantína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Korka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kormlöð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kornelía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kráka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kría",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kriss",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Krista",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristensa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristíana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristíanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristin",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristine",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristjana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristjóna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristlín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristlind",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristmey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristólín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristólína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristvina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kristþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Krumma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Kvika",
+      "Gender": "female"
+    }
+  ],
+  "L": [
+    {
+      "Name": "Læla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Laila",
+      "Gender": "female"
+    },
+    {
+      "Name": "Laíla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lalía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lalíla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lán",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lára",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lárensína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lárentína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lárenzína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Láretta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lárey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lauf",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Laufey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Laufheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Laufhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lauga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Laugey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Laugheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Leikný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Leila",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lein",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Leona",
+      "Gender": "female"
+    },
+    {
+      "Name": "Leóna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Leonóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Leónóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lexí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Leya",
+      "Gender": "female"
+    },
+    {
+      "Name": "Leyla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Leynd",
+      "Gender": "female"
+    },
+    {
+      "Name": "Líana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Líba",
+      "Gender": "female"
+    },
+    {
+      "Name": "Líf",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lífdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Liisa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lilith",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lilja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Liljá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Liljan",
+      "Gender": "female"
+    },
+    {
+      "Name": "Liljurós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lill",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lilla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lilley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lillian",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lillín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lilly",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lillý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lillýana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lílú",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lily",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lilý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lílý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Línbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lind",
+      "Gender": "female"
+    },
+    {
+      "Name": "Linda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Linddís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lindey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Líndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Líneik",
+      "Gender": "female"
+    },
+    {
+      "Name": "Líney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lingný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Línhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Linnea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lísa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lísabet",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lísandra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lísbet",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lisbeth",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lísebet",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lissie",
+      "Gender": "female"
+    },
+    {
+      "Name": "List",
+      "Gender": "female"
+    },
+    {
+      "Name": "Listalín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Liv",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lív",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ljóney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ljósbera",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ljósbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ljósbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ljósunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ljótunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lóa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lofn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lofthildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Loftveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Logey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Logn",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Lokbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lóla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lóley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lóreley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lotta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Louisa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Louise",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lousie",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lovísa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lucia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lúcía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lucy",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lúðvíka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lúísa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lukka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Luna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lúna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lúsía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lúsinda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lúvísa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lydia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lydía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lýdía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lynd",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lyngheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Lýra",
+      "Gender": "female"
+    }
+  ],
+  "M": [
+    {
+      "Name": "Mábil",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maddý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mæja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magdalena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magðalena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maggey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maggý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magnea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magnes",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magnfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magnheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magnhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magnína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magnólía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magnúsína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Magnþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maídís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maísól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maj",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Malen",
+      "Gender": "female"
+    },
+    {
+      "Name": "Malena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Málfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Málhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Malía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Malika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Malin",
+      "Gender": "female"
+    },
+    {
+      "Name": "Malín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Malína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Malla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Málmfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mánadís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mánarós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Manasína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Manda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Máney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Manley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Manuela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Manúela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Manúella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mára",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mardís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maren",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Márey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Margaret",
+      "Gender": "female"
+    },
+    {
+      "Name": "Margit",
+      "Gender": "female"
+    },
+    {
+      "Name": "Margot",
+      "Gender": "female"
+    },
+    {
+      "Name": "Margret",
+      "Gender": "female"
+    },
+    {
+      "Name": "Margrét",
+      "Gender": "female"
+    },
+    {
+      "Name": "Margrjet",
+      "Gender": "female"
+    },
+    {
+      "Name": "Margunnur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maria",
+      "Gender": "female"
+    },
+    {
+      "Name": "María",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maríabet",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maríam",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marían",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maríana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maríanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marianne",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marie",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maríel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maríella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marikó",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maríkó",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marinella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marínella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marion",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maríon",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marísa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mariska",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marísól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marit",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marít",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maríuerla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Markrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marlena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marlín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marlís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marló",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Marólína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marsa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marselía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marselín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marselína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marsibil",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marsilía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marsý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Martha",
+      "Gender": "female"
+    },
+    {
+      "Name": "Martína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mary",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Marzibil",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mathilda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Matilda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Matta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mattea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Matthea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Matthía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Matthilda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Matthildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mattíana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mattína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mattý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maxima",
+      "Gender": "female"
+    },
+    {
+      "Name": "May",
+      "Gender": "female"
+    },
+    {
+      "Name": "Maya",
+      "Gender": "female"
+    },
+    {
+      "Name": "Meda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mekkin",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mekkín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Melía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Melinda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Melissa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Melkorka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Melódía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Melrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Menja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Merkel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Messíana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Metta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Meyja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Michell",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mikaela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mikaelína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mikkalína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Míla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Milda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mildríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Milla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Millý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mímósa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Minerva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mínerva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Minna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Minney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Minný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Míra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Míranda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mírey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Miriam",
+      "Gender": "female"
+    },
+    {
+      "Name": "Míríel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mirja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mirjam",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mirra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mist",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mítra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mjaðveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mjalldís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mjallhvít",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mjöll",
+      "Gender": "female"
+    },
+    {
+      "Name": "Móa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Módís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Móeiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Móey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Móheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mona",
+      "Gender": "female"
+    },
+    {
+      "Name": "Móna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Monika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mónika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Móníka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Moon",
+      "Gender": "female"
+    },
+    {
+      "Name": "Móra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Morgunsól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mörk",
+      "Gender": "female"
+    },
+    {
+      "Name": "Munda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mundheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mundhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mundína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mylla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mýr",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mýra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Myríam",
+      "Gender": "female"
+    },
+    {
+      "Name": "Myrk",
+      "Gender": "female"
+    },
+    {
+      "Name": "Myrkey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Myrkrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Myrkva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Myrra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Mýrún",
+      "Gender": "female"
+    }
+  ],
+  "N": [
+    {
+      "Name": "Náð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nadia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nadía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nadja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nala",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nancy",
+      "Gender": "female"
+    },
+    {
+      "Name": "Naní",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nanný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nansý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Naomí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Naómí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Naranja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Narfey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Natalí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Natalía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Natalie",
+      "Gender": "female"
+    },
+    {
+      "Name": "Natasja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nathalia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nathalía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Náttey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Náttrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Náttrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Náttsól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Náttúra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nellý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nenna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nicole",
+      "Gender": "female"
+    },
+    {
+      "Name": "Niðbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nift",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nikíta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nikoletta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nikólína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Níní",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ninja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ninna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Njála",
+      "Gender": "female"
+    },
+    {
+      "Name": "Njóla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nóa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nóla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Norður",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Norma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nótt",
+      "Gender": "female"
+    },
+    {
+      "Name": "Núra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nýbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Nýdönsk",
+      "Gender": "female"
+    }
+  ],
+  "O": [
+    {
+      "Name": "Obba",
+      "Gender": "female"
+    },
+    {
+      "Name": "Octavia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Odda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oddbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oddey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oddfreyja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oddfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oddgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oddhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oddlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oddleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oddný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oddrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oddveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oddvör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Oktavía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Októvía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Olga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Olivia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Olivía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ollý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ora",
+      "Gender": "female"
+    },
+    {
+      "Name": "Orka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ormheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ormhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Otkatla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Otta",
+      "Gender": "female"
+    }
+  ],
+  "Ó": [
+    {
+      "Name": "Óda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Óðný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ófelía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Óla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ólafía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ólafína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ólavía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ólína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ólivía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ólöf",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ósa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ósk",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ósklín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ótta",
+      "Gender": "female"
+    }
+  ],
+  "P": [
+    {
+      "Name": "Pála",
+      "Gender": "female"
+    },
+    {
+      "Name": "Páldís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Páley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pálfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pálhanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pálheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pálhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pálín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pálína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Palma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pálma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pálmey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pálmfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pálrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pamela",
+      "Gender": "female"
+    },
+    {
+      "Name": "Panpan",
+      "Gender": "female"
+    },
+    {
+      "Name": "Paradís",
+      "Gender": "female"
+    },
+    {
+      "Name": "París",
+      "Gender": "female"
+    },
+    {
+      "Name": "Patricia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Patrisía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Perla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Peta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Petra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Petrea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Petrína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pétrína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Petronella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Petrónella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Petrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Petrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pétrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Petrúnella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Polly",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pollý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pomóna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Pría",
+      "Gender": "female"
+    }
+  ],
+  "Q": [
+    {
+      "Name": "Quin",
+      "Gender": "unisex"
+    }
+  ],
+  "R": [
+    {
+      "Name": "Ráðhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rafney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rafnhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ragn",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Ragna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ragnbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ragney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ragnfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ragnheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ragnhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ragný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rakel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ramóna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rán",
+      "Gender": "female"
+    },
+    {
+      "Name": "Randalín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Randí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Randíður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Randý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ranka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rannva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rannveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rayna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rebekka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Regína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Reginbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Regn",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Rei",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rein",
+      "Gender": "female"
+    },
+    {
+      "Name": "Renata",
+      "Gender": "female"
+    },
+    {
+      "Name": "Reyla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Reyn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Reyndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Reynheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Reynhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ríkey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rikka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ripley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rita",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ríta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Róberta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Róbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Röfn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rögn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Roj",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rökkurdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rökkva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Róm",
+      "Gender": "female"
+    },
+    {
+      "Name": "Róma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ronja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rorí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósalía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósalind",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósamunda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rose",
+      "Gender": "female"
+    },
+    {
+      "Name": "Róselía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rosemarie",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Róshildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósinkara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósinkransa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Róska",
+      "Gender": "female"
+    },
+    {
+      "Name": "Röskva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Róslaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Róslín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Róslind",
+      "Gender": "female"
+    },
+    {
+      "Name": "Róslinda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósmary",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósmarý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rósý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Roxanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rúbý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rúna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rúndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rúnel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rúnhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Runný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rúrí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Rut",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ruth",
+      "Gender": "female"
+    }
+  ],
+  "S": [
+    {
+      "Name": "Saara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sabína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sabrína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sædís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sædóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæfinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sælaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæmey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæmunda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Særós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Særún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæsól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sæunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sævör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Safíra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Saga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sakura",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sál",
+      "Gender": "female"
+    },
+    {
+      "Name": "Salbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Saldís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Salgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Salín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Salína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Salka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Salma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Salný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Salome",
+      "Gender": "female"
+    },
+    {
+      "Name": "Salóme",
+      "Gender": "female"
+    },
+    {
+      "Name": "Salomína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Salvía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Salvör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sandra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sanný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Santía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sarah",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sarína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sefanía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Selena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Selina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Selja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Selka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Selma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Senía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Septíma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sera",
+      "Gender": "female"
+    },
+    {
+      "Name": "Serena",
+      "Gender": "female"
+    },
+    {
+      "Name": "Seselía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sesilía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sesselía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sesselja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sessilía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Siddý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigdóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigfríð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Siggerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigmunda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Signa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Signhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Signý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigrid",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurást",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurásta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurbára",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurbirna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurdóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurdríf",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurdrífa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurfinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurfljóð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurgeira",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurhanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurhelga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurjóna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurlilja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurlín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurlína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurlinn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurmunda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurnanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurósk",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigursteina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurvina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigurþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigvalda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigyn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sigþrúður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Silfa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Silfá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Silfra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Silfrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Silfur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Silja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Silka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Silla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Silva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Silvana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Silvía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Símona",
+      "Gender": "female"
+    },
+    {
+      "Name": "Símonía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sirí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sirra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sirrey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sirrí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sirrý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sisa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sísí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sissa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Síta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Siv",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sivía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sjana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sjöfn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Skaði",
+      "Gender": "female"
+    },
+    {
+      "Name": "Skarpheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Skjaldmey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Skúa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Skugga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Skúla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Skuld",
+      "Gender": "female"
+    },
+    {
+      "Name": "Skúlína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Skylar",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Smíta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snæ",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Snæbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snæbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snæborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snæbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snædís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snæfríð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snæfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snæfrost",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Snælaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snærós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snærún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snæsól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snekkja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snjáfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snjáka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snjófríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snjólaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snorra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Snót",
+      "Gender": "female"
+    },
+    {
+      "Name": "Soffía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sofia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sofía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sófía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sofie",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sóla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólbráð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólbrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sóldís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sóldögg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sóley",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólkatla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sóllilja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólskríkja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sölva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Solveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sölvey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sölvína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sólvör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sónata",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sonja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sonný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sophia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sophie",
+      "Gender": "female"
+    },
+    {
+      "Name": "Stasía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Stefana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Stefanía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Stefánný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steinbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steinborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steindís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steindóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steiney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steinfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steingerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steinhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steinlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steinrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steinrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steinunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steinvör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Steinþóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Stella",
+      "Gender": "female"
+    },
+    {
+      "Name": "Stígheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Stígrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Stína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Stinne",
+      "Gender": "female"
+    },
+    {
+      "Name": "Stirni",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Stjarna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Stjarney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Stormey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Strympa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Styrgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Súla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Súlamít",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sumar",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Sumarlín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sumarlína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sumarrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sunna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sunnefa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sunneva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sunniva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sunníva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Susan",
+      "Gender": "female"
+    },
+    {
+      "Name": "Súsan",
+      "Gender": "female"
+    },
+    {
+      "Name": "Súsanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Susie",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svafa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svala",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svalrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svanbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svanbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svanborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svandís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svaney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svanfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svanheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svanhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svanhvít",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svanlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svanrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svaný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svanþrúður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svava",
+      "Gender": "female"
+    },
+    {
+      "Name": "Svea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveinbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveinborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveindís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveiney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveinfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveingerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveinhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveinlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveinrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveinrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveinsína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sveinveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sverð",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Sylgja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sylva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sylvia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Sylvía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Systa",
+      "Gender": "female"
+    }
+  ],
+  "T": [
+    {
+      "Name": "Tala",
+      "Gender": "female"
+    },
+    {
+      "Name": "Talía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Talitha",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tamar",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tamara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tanía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tanja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tanya",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tanya",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tara",
+      "Gender": "female"
+    },
+    {
+      "Name": "Taríel",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tatía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tatiana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tatjana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Teitný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tekla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Telekía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Telma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tera",
+      "Gender": "female"
+    },
+    {
+      "Name": "Teresa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Teresía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tereza",
+      "Gender": "female"
+    },
+    {
+      "Name": "Terra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Thalia",
+      "Gender": "female"
+    },
+    {
+      "Name": "Thalía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Thea",
+      "Gender": "female"
+    },
+    {
+      "Name": "Thelma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Theodóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Theódóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Theresa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tíalilja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tíbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tildra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tindra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tirsa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tóbý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tóbý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Todda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tófa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tóka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Torbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Torfey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Torfheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Torfhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tóta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tótla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Trausta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tristana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Trú",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tryggva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Tryggvína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Týra",
+      "Gender": "female"
+    }
+  ],
+  "U": [
+    {
+      "Name": "Ugla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Una",
+      "Gender": "female"
+    },
+    {
+      "Name": "Undína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Unna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Unnbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Unndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Unnur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Urður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ursula",
+      "Gender": "female"
+    }
+  ],
+  "Ú": [
+    {
+      "Name": "Úa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Úlfa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Úlfdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Úlfey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Úlfheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Úlfhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Úlfrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Úlla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Úna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Úndína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Úranía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Úrsúla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Úrsúley",
+      "Gender": "female"
+    }
+  ],
+  "W": [
+    {
+      "Name": "Winter",
+      "Gender": "female"
+    }
+  ],
+  "V": [
+    {
+      "Name": "Værð",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vagna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vagnbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vagnfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vaka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vala",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valbjörk",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valbjört",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valdheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valentína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valerí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valería",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valgerða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valgý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valkyrja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vallý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Valþrúður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vana",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vanadís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vanda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vanja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vár",
+      "Gender": "female"
+    },
+    {
+      "Name": "Varða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vébjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Védís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vega",
+      "Gender": "female"
+    },
+    {
+      "Name": "Végerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Veig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Veiga",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vélaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Venedía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Venný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Venus",
+      "Gender": "female"
+    },
+    {
+      "Name": "Véný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vera",
+      "Gender": "female"
+    },
+    {
+      "Name": "Veronica",
+      "Gender": "female"
+    },
+    {
+      "Name": "Veronika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Verónika",
+      "Gender": "female"
+    },
+    {
+      "Name": "Veróníka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vestur",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Vetrarrós",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vetrarsól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vibeka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Víbekka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Victoria",
+      "Gender": "female"
+    },
+    {
+      "Name": "Victoría",
+      "Gender": "female"
+    },
+    {
+      "Name": "Viðey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Viðja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Víf",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vigdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vígdögg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Víggunnur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Viglín",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vigný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Viktoria",
+      "Gender": "female"
+    },
+    {
+      "Name": "Viktoría",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vilborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vildís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vilfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vilgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vilhelmína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Villa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Villiblóm",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Villimey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vilma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vilný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vinbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vinný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vinsý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Viola",
+      "Gender": "female"
+    },
+    {
+      "Name": "Víóla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Víóletta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Virginía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vísa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vivian",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vök",
+      "Gender": "female"
+    },
+    {
+      "Name": "Von",
+      "Gender": "female"
+    },
+    {
+      "Name": "Voney",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vopna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vordís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Vorsól",
+      "Gender": "female"
+    },
+    {
+      "Name": "Výrin",
+      "Gender": "unisex"
+    }
+  ],
+  "X": [
+    {
+      "Name": "Xenia",
+      "Gender": "female"
+    }
+  ],
+  "Y": [
+    {
+      "Name": "Yggdrasil",
+      "Gender": "unisex"
+    },
+    {
+      "Name": "Ylfa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ylfur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ylja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ylva",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ynda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Yndís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Yngveldur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ynja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Yrja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Yrkja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Yrsa",
+      "Gender": "female"
+    }
+  ],
+  "Ý": [
+    {
+      "Name": "Ýda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ýja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ýlfa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ýma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ýr",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ýrr",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ýrún",
+      "Gender": "female"
+    }
+  ],
+  "Z": [
+    {
+      "Name": "Zíta",
+      "Gender": "female"
+    },
+    {
+      "Name": "Zoe",
+      "Gender": "female"
+    },
+    {
+      "Name": "Zophía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Zulima",
+      "Gender": "female"
+    }
+  ],
+  "Þ": [
+    {
+      "Name": "Þalía",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þeba",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þeódís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þeódóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þingey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þjóðbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þjóðhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þoka",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þöll",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þollý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þóra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þóranna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórarna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þorbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þorbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þorbrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórdís",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórelfa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórelfur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórey",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þorfinna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórfríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þorgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þorgríma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórgunna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórgunnur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórhalla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórhanna",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórheiður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórhildur",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þorkatla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórkatla",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þorlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórlaug",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þorleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórleif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórný",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórodda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þorsteina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórsteina",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórsteinunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þorstína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórstína",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórunn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórunnbjörg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórunnborg",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þórvör",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þrá",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þrúða",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þrúður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þruma",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þúfa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þula",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þura",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þurí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þuríður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þurý",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þyra",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þyri",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þyrí",
+      "Gender": "female"
+    },
+    {
+      "Name": "Þyrnirós",
+      "Gender": "female"
+    }
+  ],
+  "Æ": [
+    {
+      "Name": "Ægileif",
+      "Gender": "female"
+    },
+    {
+      "Name": "Æja",
+      "Gender": "female"
+    },
+    {
+      "Name": "Æsa",
+      "Gender": "female"
+    },
+    {
+      "Name": "Æsgerður",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ævi",
+      "Gender": "female"
+    },
+    {
+      "Name": "Æví",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ævör",
+      "Gender": "female"
+    }
+  ],
+  "Ö": [
+    {
+      "Name": "Ögmunda",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ögn",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ölrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ölveig",
+      "Gender": "female"
+    },
+    {
+      "Name": "Örbrún",
+      "Gender": "female"
+    },
+    {
+      "Name": "Örk",
+      "Gender": "female"
+    },
+    {
+      "Name": "Ösp",
+      "Gender": "female"
+    },
+    {
+      "Name": "Öxi",
+      "Gender": "female"
+    }
+  ]
+}

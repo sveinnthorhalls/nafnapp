@@ -465,4 +465,33 @@ export class OptimizedFirebaseNamesManager {
       throw error;
     }
   }
+
+  // New method to get user's personal liked names
+  static async getUserPersonalLikes(
+    coupleId: string,
+    userRole: UserRole
+  ): Promise<NameWithPreference[]> {
+    try {
+      // Get all names with preferences
+      const allNames = await this.getAllNamesWithPreferences(coupleId);
+      
+      // Filter for names the current user liked
+      const userLikes = allNames.filter(name => {
+        if (userRole === 'partner1') {
+          return name.partner1Like === true;
+        } else {
+          return name.partner2Like === true;
+        }
+      });
+      
+      // Add the user role to each name
+      return userLikes.map(name => ({
+        ...name,
+        userRole
+      }));
+    } catch (error) {
+      console.error('Get user personal likes error:', error);
+      throw error;
+    }
+  }
 }

@@ -127,6 +127,11 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
     navigation.navigate('Matches', { coupleId: userInfo.coupleId });
   };
 
+  // Navigate to personal likes screen
+  const viewPersonalLikes = () => {
+    navigation.navigate('PersonalLikes');
+  };
+
   // Sign out the current user
   const handleSignOut = async () => {
     try {
@@ -178,11 +183,24 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
       </View>
       
       <View style={styles.footer}>
-        <TouchableOpacity style={[styles.button, styles.matchButton]} onPress={viewMatches}>
+        <TouchableOpacity 
+          style={[styles.button, styles.matchButton]} 
+          onPress={viewMatches}
+        >
           <Text style={styles.buttonText}>View Matches</Text>
         </TouchableOpacity>
         
-        <TouchableOpacity style={styles.button} onPress={handleSignOut}>
+        <TouchableOpacity 
+          style={[styles.button, styles.personalLikesButton]} 
+          onPress={viewPersonalLikes}
+        >
+          <Text style={styles.buttonText}>My Likes</Text>
+        </TouchableOpacity>
+        
+        <TouchableOpacity 
+          style={styles.button} 
+          onPress={handleSignOut}
+        >
           <Text style={styles.buttonText}>Sign Out</Text>
         </TouchableOpacity>
       </View>
@@ -247,22 +265,25 @@ const styles = StyleSheet.create({
     width: '100%',
     flexDirection: 'row',
     justifyContent: 'space-evenly',
-    paddingHorizontal: 20,
+    paddingHorizontal: 10,
     marginBottom: 20,
   },
   button: {
     backgroundColor: '#3498db',
     paddingVertical: 12,
-    paddingHorizontal: 25,
+    paddingHorizontal: 15,
     borderRadius: 25,
     elevation: 2,
   },
   matchButton: {
     backgroundColor: '#2ecc71',
   },
+  personalLikesButton: {
+    backgroundColor: '#9b59b6',
+  },
   buttonText: {
     color: 'white',
-    fontSize: 16,
+    fontSize: 14,
     fontWeight: '600',
   },
 });

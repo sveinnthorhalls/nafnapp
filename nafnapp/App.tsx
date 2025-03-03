@@ -14,6 +14,7 @@ import MatchesScreen from './src/screens/MatchesScreen';
 import LoginScreen from './src/screens/LoginScreen';
 import CreateCoupleScreen from './src/screens/CreateCoupleScreen';
 import JoinCoupleScreen from './src/screens/JoinCoupleScreen';
+import PersonalLikesScreen from './src/screens/PersonalLikesScreen';
 
 // Define the navigation types
 export type RootStackParamList = {
@@ -22,6 +23,7 @@ export type RootStackParamList = {
   JoinCouple: undefined;
   Home: undefined;
   Matches: { coupleId: string | null };
+  PersonalLikes: undefined;
 };
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -62,6 +64,7 @@ export default function App() {
             {/* App Screens */}
             <Stack.Screen name="Home" component={HomeScreen} />
             <Stack.Screen name="Matches" component={MatchesScreen} />
+            <Stack.Screen name="PersonalLikes" component={PersonalLikesScreen} />
           </Stack.Navigator>
         </NavigationContainer>
         <StatusBar style="auto" />
