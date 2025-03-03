@@ -8,7 +8,7 @@ import Reanimated, {
   withSpring,
   runOnJS 
 } from 'react-native-reanimated';
-import { NameData } from '../data/icelandicNames';
+import { NameData } from '../utils/firebaseNamesManager';
 import { FirebaseNameData } from '../utils/firebaseNamesManager';
 
 const { width } = Dimensions.get('window');
@@ -60,14 +60,6 @@ const NameCard: React.FC<NameCardProps> = ({ name, onSwipeLeft, onSwipeRight }) 
     };
   });
 
-  // Display meaning if available
-  const renderMeaning = () => {
-    if (name.meaning) {
-      return <Text style={styles.meaningText}>{name.meaning}</Text>;
-    }
-    return null;
-  };
-
   if (Platform.OS === 'web') {
     return (
       <div
@@ -101,7 +93,6 @@ const NameCard: React.FC<NameCardProps> = ({ name, onSwipeLeft, onSwipeRight }) 
         style={styles.card}
       >
         <Text style={styles.nameText}>{name.name}</Text>
-        {renderMeaning()}
       </div>
     );
   }
@@ -110,7 +101,6 @@ const NameCard: React.FC<NameCardProps> = ({ name, onSwipeLeft, onSwipeRight }) 
     <PanGestureHandler onGestureEvent={panGestureEvent}>
       <Reanimated.View style={[styles.card, cardStyle]}>
         <Text style={styles.nameText}>{name.name}</Text>
-        {renderMeaning()}
         <View style={styles.actionHints}>
           <Text style={styles.hintText}>← Swipe left to skip</Text>
           <Text style={styles.hintText}>Swipe right to like →</Text>
@@ -142,13 +132,6 @@ const styles = StyleSheet.create({
     fontSize: 42,
     fontWeight: 'bold',
     color: '#333',
-    textAlign: 'center',
-  },
-  meaningText: {
-    marginTop: 20,
-    fontSize: 18,
-    fontStyle: 'italic',
-    color: '#666',
     textAlign: 'center',
   },
   actionHints: {

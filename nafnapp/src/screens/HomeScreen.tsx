@@ -3,22 +3,26 @@ import { StyleSheet, View, Text, TouchableOpacity, ActivityIndicator, Dimensions
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../../App';
 import NameCard from '../components/NameCard';
-import { OptimizedFirebaseNamesManager, UserRole, NameWithPreference, Gender } from '../utils/optimizedFirebaseNamesManager';
+import { FirebaseNamesManager, UserRole, NameData, FirebaseNameData } from '../utils/firebaseNamesManager';
 import { auth } from '../config/firebase';
 
-type HomeScreenProps = {
+// Define the type for the navigation prop
+interface HomeScreenProps {
   navigation: NativeStackNavigationProp<RootStackParamList, 'Home'>;
-};
+}
 
 const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
-  const [namesToSwipe, setNamesToSwipe] = useState<NameWithPreference[]>([]);
+  const [namesToSwipe, setNamesToSwipe] = useState<FirebaseNameData[]>([]);
   const [loading, setLoading] = useState(true);
   const [userInfo, setUserInfo] = useState<{
     userId: string | null;
     coupleId: string | null;
     userRole: UserRole | null;
-    preferredGender?: Gender | 'both';
-  }>({ userId: null, coupleId: null, userRole: null, preferredGender: 'both' });
+  }>({ 
+    userId: null, 
+    coupleId: null, 
+    userRole: null
+  });
   
   // Load initial data
   useEffect(() => {
@@ -39,18 +43,16 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
     
     try {
       // Get the user's info (which couple they belong to, what role they have)
-      const userInfo = await OptimizedFirebaseNamesManager.getCurrentUserInfo();
+      const userInfo = await FirebaseNamesManager.getCurrentUserInfo();
       setUserInfo(userInfo);
       
       if (userInfo.coupleId && userInfo.userRole) {
-        // Ensure master names are initialized
-        await OptimizedFirebaseNamesManager.ensureMasterNamesExist();
-        
+        // Get all names for the couple
+        const allNames = await FirebaseNamesManager.getAllNames(userInfo.coupleId);
         // Get names that need swiping for current user
-        const namesToSwipe = await OptimizedFirebaseNamesManager.getNamesToSwipe(
-          userInfo.coupleId,
-          userInfo.userRole,
-          userInfo.preferredGender || 'both'
+        const namesToSwipe = FirebaseNamesManager.getNamesToSwipe(
+          allNames,
+          userInfo.userRole
         );
         
         setNamesToSwipe(namesToSwipe);
@@ -70,7 +72,7 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
     const nameId = namesToSwipe[0].id;
     try {
       // Update the name preference in Firebase
-      await OptimizedFirebaseNamesManager.updateNamePreference(
+      await FirebaseNamesManager.updateNamePreference(
         nameId,
         false, // disliked
         userInfo.userRole,
@@ -93,7 +95,7 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
     const currentName = namesToSwipe[0];
     try {
       // Update the name preference in Firebase
-      await OptimizedFirebaseNamesManager.updateNamePreference(
+      await FirebaseNamesManager.updateNamePreference(
         nameId,
         true, // liked
         userInfo.userRole,
@@ -104,8 +106,8 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
       setNamesToSwipe(namesToSwipe.slice(1));
 
       // Check if this created a new match
-      if (userInfo.userRole === 'partner1' && currentName.partner2Like === true ||
-          userInfo.userRole === 'partner2' && currentName.partner1Like === true) {
+      if (userInfo.userRole === 'partner1' && currentName.liked.partner2 === true ||
+          userInfo.userRole === 'partner2' && currentName.liked.partner1 === true) {
         // This name is a match! Both partners liked it
         Alert.alert(
           '🎉 It\'s a Match! 🎉',
@@ -130,6 +132,11 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
   // Navigate to personal likes screen
   const viewPersonalLikes = () => {
     navigation.navigate('PersonalLikes');
+  };
+
+  // Navigate to settings screen
+  const openSettings = () => {
+    navigation.navigate('Settings');
   };
 
   // Sign out the current user
@@ -163,6 +170,13 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ navigation }) => {
         <Text style={styles.userText}>
           You are logged in as: {getRoleDisplay()}
         </Text>
+        
+        <TouchableOpacity 
+          style={styles.settingsButton}
+          onPress={openSettings}
+        >
+          <Text style={styles.settingsButtonText}>⚙️ Settings</Text>
+        </TouchableOpacity>
       </View>
       
       <View style={styles.cardContainer}>
@@ -220,6 +234,7 @@ const styles = StyleSheet.create({
     width: '100%',
     alignItems: 'center',
     marginTop: 20,
+    position: 'relative',
   },
   title: {
     fontSize: 28,
@@ -229,6 +244,17 @@ const styles = StyleSheet.create({
   userText: {
     fontSize: 16,
     color: '#666',
+  },
+  settingsButton: {
+    position: 'absolute',
+    top: 5,
+    right: 15,
+    padding: 8,
+    borderRadius: 20,
+    backgroundColor: 'rgba(0,0,0,0.05)',
+  },
+  settingsButtonText: {
+    fontSize: 16,
   },
   cardContainer: {
     flex: 1,

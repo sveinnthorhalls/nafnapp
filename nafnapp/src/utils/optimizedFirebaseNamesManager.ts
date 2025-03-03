@@ -1,6 +1,5 @@
 import { collection, doc, getDocs, setDoc, updateDoc, query, where, serverTimestamp, addDoc, getDoc, writeBatch } from 'firebase/firestore';
 import { auth, db } from '../config/firebase';
-import { NameData, allIcelandicNames } from '../data/icelandicNames';
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword } from 'firebase/auth';
 import { randomUUID } from 'expo-crypto';
 
@@ -29,6 +28,12 @@ export interface NameLikeData {
   partner2Like: boolean | null;
 }
 
+// Interface for couple settings
+export interface CoupleSettings {
+  nameOrder?: 'alphabetical' | 'random';
+  preferredGender?: Gender | 'both';
+}
+
 // Combined data for displaying to users (MasterName + preferences)
 export interface NameWithPreference {
   id: string;
@@ -38,6 +43,7 @@ export interface NameWithPreference {
   partner1Like: boolean | null;
   partner2Like: boolean | null;
   nameLikeId?: string; // Reference to the nameLike document ID
+  userRole?: UserRole; // Used when displaying to a specific partner
 }
 
 export class OptimizedFirebaseNamesManager {
@@ -67,7 +73,10 @@ export class OptimizedFirebaseNamesManager {
         partner1: userId,
         partner2: null, // Will be filled when partner 2 joins
         createdAt: serverTimestamp(),
-        preferredGender
+        settings: {
+          preferredGender,
+          nameOrder: 'random' // Default to random order
+        }
       });
 
       // Associate the user with this couple
@@ -204,22 +213,10 @@ export class OptimizedFirebaseNamesManager {
         return;
       }
       
-      // Initialize with default names from our data file
-      const batch = writeBatch(db);
+      // We don't need to initialize from icelandicNames.ts anymore since we're loading from Firestore
+      // and we've already uploaded names using the uploadNames.js script
+      console.log('Master names collection is empty. Make sure to run the uploadNames.js script.');
       
-      allIcelandicNames.forEach(name => {
-        const nameRef = doc(db, 'masterNames', name.id);
-        batch.set(nameRef, {
-          id: name.id,
-          name: name.name,
-          gender: name.gender,
-          meaning: name.meaning || null,
-          createdAt: serverTimestamp()
-        });
-      });
-      
-      await batch.commit();
-      console.log('Added', allIcelandicNames.length, 'names to master names collection');
     } catch (error) {
       console.error('Error ensuring master names exist:', error);
       throw error;
@@ -230,7 +227,8 @@ export class OptimizedFirebaseNamesManager {
   static async getNamesToSwipe(
     coupleId: CoupleId,
     userRole: UserRole,
-    preferredGender: Gender | 'both' = 'both'
+    preferredGender: Gender | 'both' = 'both',
+    nameOrder: 'alphabetical' | 'random' = 'random'
   ): Promise<NameWithPreference[]> {
     try {
       // 1. Get all name IDs this couple has already swiped on
@@ -254,21 +252,43 @@ export class OptimizedFirebaseNamesManager {
       });
       
       // 2. Get all master names matching gender preference
-      let masterNamesQuery;
+      // Modified to always include unisex names
+      let masterNamesSnapshot;
       
       if (preferredGender === 'both') {
-        masterNamesQuery = query(collection(db, 'masterNames'));
+        // If "both" is selected, get all names (no filtering by gender)
+        masterNamesSnapshot = await getDocs(query(collection(db, 'masterNames')));
       } else {
-        masterNamesQuery = query(
+        // For female or male preference, get both the selected gender AND unisex names
+        // We need to fetch in two separate queries since Firestore doesn't support OR queries directly
+        const genderSpecificQuery = query(
           collection(db, 'masterNames'),
           where('gender', '==', preferredGender)
         );
+        const unisexQuery = query(
+          collection(db, 'masterNames'),
+          where('gender', '==', 'unisex')
+        );
+        
+        // Execute both queries
+        const [genderSnapshot, unisexSnapshot] = await Promise.all([
+          getDocs(genderSpecificQuery),
+          getDocs(unisexQuery)
+        ]);
+        
+        // Combine the results
+        const combinedDocs = [...genderSnapshot.docs, ...unisexSnapshot.docs];
+        
+        // Create a custom snapshot-like object with combined docs
+        masterNamesSnapshot = {
+          docs: combinedDocs,
+          size: combinedDocs.length,
+          empty: combinedDocs.length === 0,
+        };
       }
       
-      const masterNamesSnapshot = await getDocs(masterNamesQuery);
-      
       // 3. Filter out names this user has already swiped on
-      const namesToSwipe: NameWithPreference[] = [];
+      let namesToSwipe: NameWithPreference[] = [];
       
       masterNamesSnapshot.docs.forEach(doc => {
         const nameData = doc.data() as MasterNameData;
@@ -288,6 +308,17 @@ export class OptimizedFirebaseNamesManager {
           partner2Like: null
         });
       });
+      
+      // 4. Sort or randomize based on nameOrder preference
+      if (nameOrder === 'alphabetical') {
+        namesToSwipe.sort((a, b) => a.name.localeCompare(b.name));
+      } else if (nameOrder === 'random') {
+        // Fisher-Yates shuffle algorithm for true randomness
+        for (let i = namesToSwipe.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [namesToSwipe[i], namesToSwipe[j]] = [namesToSwipe[j], namesToSwipe[i]];
+        }
+      }
       
       return namesToSwipe;
     } catch (error) {
@@ -408,65 +439,103 @@ export class OptimizedFirebaseNamesManager {
     );
   }
 
-  // Get the current logged in user's information
-  static async getCurrentUserInfo(): Promise<{
+// Get the current logged in user's information
+static async getCurrentUserInfo(): Promise<{
     userId: UserId | null;
     coupleId: CoupleId | null;
     userRole: UserRole | null;
     preferredGender?: Gender | 'both';
+    nameOrder?: 'alphabetical' | 'random';
   }> {
     const user = auth.currentUser;
     
     if (!user) {
+      console.error('No authenticated user found');
       return { userId: null, coupleId: null, userRole: null };
     }
     
     try {
+      console.log('Fetching user document for user ID:', user.uid);
       const userDoc = await getDocs(query(
         collection(db, 'users'),
         where('userId', '==', user.uid)
       ));
       
       if (userDoc.empty) {
+        console.error('User document not found for user ID:', user.uid);
         return { userId: user.uid, coupleId: null, userRole: null };
       }
       
       const userData = userDoc.docs[0].data();
       const coupleId = userData.coupleId;
+      console.log('User document found:', userData);
       
-      // Get couple details including gender preference
+      // Get couple details including settings
+      console.log('Fetching couple document for couple ID:', coupleId);
       const coupleDoc = await getDoc(doc(db, 'couples', coupleId));
+      if (!coupleDoc.exists()) {
+        console.error('Couple document not found for couple ID:', coupleId);
+        return { userId: user.uid, coupleId: null, userRole: null };
+      }
       const coupleData = coupleDoc.data();
+      const settings = coupleData?.settings || {};
+      console.log('Couple document found:', coupleData);
       
       return {
         userId: user.uid,
         coupleId: userData.coupleId,
         userRole: userData.role as UserRole,
-        preferredGender: coupleData?.preferredGender || 'both'
+        preferredGender: settings.preferredGender || 'both',
+        nameOrder: settings.nameOrder || 'random'  // Default to random
       };
     } catch (error: any) {
       console.error('Error getting current user info:', error);
       return { userId: user.uid, coupleId: null, userRole: null };
     }
   }
-  
-  // Update a couple's preferred gender for baby names
-  static async updatePreferredGender(
-    coupleId: CoupleId, 
-    preferredGender: Gender | 'both'
-  ): Promise<void> {
+
+  // Get couple settings
+  static async getCoupleSettings(coupleId: CoupleId): Promise<CoupleSettings> {
     try {
-      await updateDoc(doc(db, 'couples', coupleId), {
-        preferredGender,
-        updatedAt: serverTimestamp()
-      });
+      const coupleDoc = await getDoc(doc(db, 'couples', coupleId));
+      
+      if (!coupleDoc.exists()) {
+        throw new Error('Couple not found');
+      }
+      
+      const coupleData = coupleDoc.data();
+      const settings = coupleData.settings || {};
+      
+      return {
+        nameOrder: settings.nameOrder || 'random',  // Default to random
+        preferredGender: settings.preferredGender || 'both'
+      };
     } catch (error) {
-      console.error('Error updating preferred gender:', error);
+      console.error('Error getting couple settings:', error);
       throw error;
     }
   }
-
-  // New method to get user's personal liked names
+  
+  // Update couple settings
+  static async updateCoupleSettings(
+    coupleId: CoupleId, 
+    settings: CoupleSettings
+  ): Promise<void> {
+    try {
+      const coupleRef = doc(db, 'couples', coupleId);
+      
+      await updateDoc(coupleRef, {
+        'settings.nameOrder': settings.nameOrder || 'random',  // Default to random
+        'settings.preferredGender': settings.preferredGender || 'both',
+        updatedAt: serverTimestamp()
+      });
+    } catch (error) {
+      console.error('Error updating couple settings:', error);
+      throw error;
+    }
+  }
+  
+  // Get user's personal liked names
   static async getUserPersonalLikes(
     coupleId: string,
     userRole: UserRole

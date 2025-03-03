@@ -2,6 +2,15 @@ rules_version = '2';
 
 service cloud.firestore {
   match /databases/{database}/documents {
+    // TEMPORARY DEBUG RULES - REMOVE AFTER DEBUGGING
+    // Temporary open read access for debugging
+    match /{document=**} {
+      allow read: if request.auth != null;
+      allow write: if false; // Still restrict writes
+    }
+    
+    // Original rules below, uncomment after fixing issues
+    /*
     // Default deny all
     match /{document=**} {
       allow read, write: if false;
@@ -53,5 +62,6 @@ service cloud.firestore {
       // For creating a new like - verify coupleId belongs to user
       allow create: if request.auth != null && isCoupleMember(request.resource.data.coupleId);
     }
+    */
   }
 }

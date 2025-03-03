@@ -5,9 +5,14 @@ node_modules/
 
 # Expo
 .expo/
+.expo-shared/
 dist/
 web-build/
 expo-env.d.ts
+*.expo
+*.expo.js
+*.expo.ts
+*.expo.tsx
 
 # Native
 *.orig.*
@@ -31,9 +36,28 @@ yarn-error.*
 
 # local env files
 .env*.local
+.env
 
 # typescript
 *.tsbuildinfo
 
 # Firebase service account credentials
 serviceAccountKey.json
+
+# Build and output directories
+build/
+output/
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/

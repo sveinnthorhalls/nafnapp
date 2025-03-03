@@ -1,6 +1,5 @@
 import { collection, doc, getDocs, setDoc, updateDoc, query, where, serverTimestamp } from 'firebase/firestore';
 import { auth, db } from '../config/firebase';
-import { NameData } from '../data/icelandicNames';
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword, User } from 'firebase/auth';
 import { randomUUID } from 'expo-crypto';
 
@@ -9,8 +8,13 @@ export type CoupleId = string;
 export type UserId = string;
 export type UserRole = 'partner1' | 'partner2';
 
-export interface FirebaseNameData extends NameData {
+export interface NameData {
+  id: string;
+  name: string;
   gender: 'female' | 'male' | 'unisex';
+}
+
+export interface FirebaseNameData extends NameData {
   liked: {
     partner1: boolean | null;
     partner2: boolean | null;
@@ -175,7 +179,7 @@ export class FirebaseNamesManager {
     try {
       // Check if names already exist for this couple
       const namesSnapshot = await getDocs(
-        query(collection(db, 'names'), where('coupleId', '==', coupleId))
+        query(collection(db, 'nameLikes'), where('coupleId', '==', coupleId))
       );
       
       if (!namesSnapshot.empty) {
@@ -199,7 +203,7 @@ export class FirebaseNamesManager {
         
         // Store each name as a separate document
         for (const name of firebaseNames) {
-          await setDoc(doc(db, 'names', name.id), {
+          await setDoc(doc(db, 'nameLikes', name.id), {
             ...name,
             coupleId,
             createdAt: serverTimestamp(),
@@ -228,7 +232,7 @@ export class FirebaseNamesManager {
     coupleId: CoupleId
   ): Promise<void> {
     try {
-      const nameRef = doc(db, 'names', nameId);
+      const nameRef = doc(db, 'nameLikes', nameId);
       
       // Create the update object based on which partner is voting
       const updateData = userRole === 'partner1'
@@ -246,17 +250,59 @@ export class FirebaseNamesManager {
   // Get all names for a couple
   static async getAllNames(coupleId: CoupleId): Promise<FirebaseNameData[]> {
     try {
-      const namesSnapshot = await getDocs(
-        query(collection(db, 'names'), where('coupleId', '==', coupleId))
+      console.log("Fetching master names from Firebase...");
+      // Get all master names first
+      const masterNamesSnapshot = await getDocs(collection(db, 'masterNames'));
+      console.log(`Retrieved ${masterNamesSnapshot.docs.length} master names`);
+      
+      const masterNames = masterNamesSnapshot.docs.map(doc => {
+        const data = doc.data();
+        return {
+          id: doc.id,
+          name: data.name,
+          gender: data.gender,
+        } as NameData;
+      });
+      
+      console.log(`Fetching name preferences for couple ID: ${coupleId}`);
+      // Then get this couple's name likes
+      const nameLikesSnapshot = await getDocs(
+        query(collection(db, 'nameLikes'), where('coupleId', '==', coupleId))
       );
       
-      return namesSnapshot.docs.map(doc => {
-        const data = doc.data();
-        return { 
-          ...data, 
-          id: doc.id  // Include the document ID as the name ID
-        } as FirebaseNameData;
-      });
+      if (nameLikesSnapshot.empty) {
+        console.log("No name preferences found for this couple yet");
+        // No likes yet, return master names with empty likes
+        return masterNames.map(name => ({
+          ...name,
+          liked: { partner1: null, partner2: null }
+        }));
+      } else {
+        console.log(`Found ${nameLikesSnapshot.docs.length} name preferences for this couple`);
+        // Merge master names with likes
+        const likedNamesMap = new Map();
+        nameLikesSnapshot.docs.forEach(doc => {
+          likedNamesMap.set(doc.id, {
+            ...doc.data(),
+            id: doc.id,
+          });
+        });
+        
+        return masterNames.map(name => {
+          const likedName = likedNamesMap.get(name.id);
+          if (likedName) {
+            return {
+              ...name,
+              liked: likedName.liked || { partner1: null, partner2: null }
+            };
+          } else {
+            return {
+              ...name,
+              liked: { partner1: null, partner2: null }
+            };
+          }
+        });
+      }
     } catch (error: any) {
       console.error('Error getting all names:', error);
       throw new Error('Failed to load names: ' + (error.message || 'Unknown error'));
@@ -285,20 +331,34 @@ export class FirebaseNamesManager {
     const user = auth.currentUser;
     
     if (!user) {
+      console.log("No authenticated user found");
       return { userId: null, coupleId: null, userRole: null };
     }
     
     try {
+      console.log(`Fetching user document for user ID: ${user.uid}`);
+      
+      // TEMPORARY FOR DEBUG: Try to read a document directly to test permissions
+      try {
+        const testDoc = await getDocs(collection(db, 'users'));
+        console.log(`Test query returned ${testDoc.docs.length} documents`);
+      } catch (testError) {
+        console.error('Test query failed:', testError);
+      }
+      
       const userDoc = await getDocs(query(
         collection(db, 'users'),
         where('userId', '==', user.uid)
       ));
       
       if (userDoc.empty) {
+        console.log("No user document found for this user ID");
         return { userId: user.uid, coupleId: null, userRole: null };
       }
       
       const userData = userDoc.docs[0].data();
+      console.log(`Found user document with coupleId: ${userData.coupleId} and role: ${userData.role}`);
+      
       return {
         userId: user.uid,
         coupleId: userData.coupleId,
